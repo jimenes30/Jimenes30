@@ -29,4 +29,6 @@ Redes Sociais e Site
 
 </div>
 
+![Snake animation](https://github.com/Jimenes30/Jimenes30/blob/output/github-contribution-grid-snake.svg)
+
 
