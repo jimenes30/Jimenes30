@@ -1,8 +1,8 @@
 
 # Seja bem-vindo !
-### Sou o dev Alfredo Jimenes
+### Sou o Dev Alfredo Jimenes
 
-Redes Sociais e Site
+### Redes Sociais e Site
 
 [![Site](https://img.shields.io/website?label=EM-BREVE&style=for-the-badge&url=https://github.com/Jimenes30)](https://github.com/Jimenes30)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-jimenes-a4b3061ab/)
@@ -16,7 +16,7 @@ Redes Sociais e Site
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimenes30&locale=pt-br&theme=github_dark)](https://github.com/Jimenes30) -->
 <!-- [![repositoriocard](https://github-readme-stats.vercel.app/api/pin/?username=Jimenes30&repo=repositorio1&theme=github_dark&show_owner=true)](https://github.com/Jimenes30) -->
 
-[![Jimenes30's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&locale=pt-br&theme=github_dark&show_owner=true)](https://github.com/Jimenes30)
+
 
 ### Normalmente utilizo essas tecnologias
 
