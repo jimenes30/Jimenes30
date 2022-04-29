@@ -1,13 +1,13 @@
 
-# Seja bem-vindo !
-### Sou o Dev Alfredo Jimenes
+# Alfredo Jimenes 🇧🇷
 
 ### Redes Sociais e Site
 
 [![Site](https://img.shields.io/website?label=EM-BREVE&style=for-the-badge&url=https://github.com/Jimenes30)](https://github.com/Jimenes30)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-jimenes-a4b3061ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredo_cesar/)
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/et7sVkap) -->
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cesar_Jimenes)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bCrGzEqJ)
 
 <!-- Estatísticas -->
 
