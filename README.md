@@ -7,8 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pUwRpkgUur)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alfredojimenes.com/)
 
-<!-- Estatísticas -->
-
+<!-- Estatísticas 
 [![Jimenes30's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimenes30&locale=pt-br&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Jimenes30)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimenes30&layout=compact&locale=pt-br&theme=github_dark)](https://github.com/Jimenes30) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimenes30&locale=pt-br&theme=github_dark)](https://github.com/Jimenes30) -->
